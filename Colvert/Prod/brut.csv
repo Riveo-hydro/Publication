@@ -119,3 +119,7 @@ mesure_id,annee,mois,jour,heure,minute,valeur,unite,camera_id
 118,2025,9,28,20,45,0.0,px min,SIM1
 119,2025,9,28,20,45,0.0,px max,SIM1
 120,2025,9,28,20,45,30.0,count sample,SIM1
+121,2025,9,28,21,0,0.0,px moyen,SIM1
+122,2025,9,28,21,0,0.0,px min,SIM1
+123,2025,9,28,21,0,0.0,px max,SIM1
+124,2025,9,28,21,0,30.0,count sample,SIM1
