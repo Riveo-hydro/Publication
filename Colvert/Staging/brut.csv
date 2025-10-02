@@ -9190,3 +9190,7 @@ mesure_id,annee,mois,jour,heure,minute,valeur,unite,camera_id
 9213,2025,10,2,4,0,0.0,px min,SIM1
 9214,2025,10,2,4,0,0.0,px max,SIM1
 9215,2025,10,2,4,0,30.0,count sample,SIM1
+9216,2025,10,2,4,15,0.0,px moyen,SIM1
+9217,2025,10,2,4,15,0.0,px min,SIM1
+9218,2025,10,2,4,15,0.0,px max,SIM1
+9219,2025,10,2,4,15,30.0,count sample,SIM1
