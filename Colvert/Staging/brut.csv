@@ -9770,3 +9770,7 @@ mesure_id,annee,mois,jour,heure,minute,valeur,unite,camera_id
 9793,2025,10,3,16,15,0.0,px min,SIM1
 9794,2025,10,3,16,15,0.0,px max,SIM1
 9795,2025,10,3,16,15,30.0,count sample,SIM1
+9796,2025,10,3,16,30,0.0,px moyen,SIM1
+9797,2025,10,3,16,30,0.0,px min,SIM1
+9798,2025,10,3,16,30,0.0,px max,SIM1
+9799,2025,10,3,16,30,30.0,count sample,SIM1
