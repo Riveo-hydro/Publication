@@ -9890,3 +9890,15 @@ mesure_id,annee,mois,jour,heure,minute,valeur,unite,camera_id
 9917,2025,10,6,20,35,0.0,px min,SIM1
 9918,2025,10,6,20,35,0.0,px max,SIM1
 9919,2025,10,6,20,35,30.0,count sample,SIM1
+9920,2025,10,6,20,40,0.0,px moyen,SIM1
+9921,2025,10,6,20,40,0.0,px min,SIM1
+9922,2025,10,6,20,40,0.0,px max,SIM1
+9923,2025,10,6,20,40,30.0,count sample,SIM1
+9924,2025,10,6,20,45,0.0,px moyen,SIM1
+9925,2025,10,6,20,45,0.0,px min,SIM1
+9926,2025,10,6,20,45,0.0,px max,SIM1
+9927,2025,10,6,20,45,30.0,count sample,SIM1
+9928,2025,10,6,20,50,0.0,px moyen,SIM1
+9929,2025,10,6,20,50,0.0,px min,SIM1
+9930,2025,10,6,20,50,0.0,px max,SIM1
+9931,2025,10,6,20,50,30.0,count sample,SIM1
