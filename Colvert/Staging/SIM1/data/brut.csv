@@ -10290,3 +10290,7 @@ mesure_id,annee,mois,jour,heure,minute,valeur,unite,camera_id
 10346,2025,10,7,22,45,0.0,px min,SIM1
 10347,2025,10,7,22,45,0.0,px max,SIM1
 10348,2025,10,7,22,45,30.0,count sample,SIM1
+10349,2025,10,7,23,0,0.0,px moyen,SIM1
+10350,2025,10,7,23,0,0.0,px min,SIM1
+10351,2025,10,7,23,0,0.0,px max,SIM1
+10352,2025,10,7,23,0,30.0,count sample,SIM1
