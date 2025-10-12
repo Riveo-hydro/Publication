@@ -667,3 +667,7 @@ mesure_id,annee,mois,jour,heure,minute,valeur,unite,camera_id
 695,2025,10,11,23,15,0.0,px min,SIM1
 696,2025,10,11,23,15,0.0,px max,SIM1
 697,2025,10,11,23,15,30.0,count sample,SIM1
+698,2025,10,11,23,30,0.0,px moyen,SIM1
+699,2025,10,11,23,30,0.0,px min,SIM1
+700,2025,10,11,23,30,0.0,px max,SIM1
+701,2025,10,11,23,30,30.0,count sample,SIM1
