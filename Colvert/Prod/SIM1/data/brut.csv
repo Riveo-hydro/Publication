@@ -1743,3 +1743,7 @@ mesure_id,annee,mois,jour,heure,minute,valeur,unite,camera_id
 1771,2025,10,16,17,30,0.0,px min,SIM1
 1772,2025,10,16,17,30,0.0,px max,SIM1
 1773,2025,10,16,17,30,30.0,count sample,SIM1
+1774,2025,10,16,17,45,0.0,px moyen,SIM1
+1775,2025,10,16,17,45,0.0,px min,SIM1
+1776,2025,10,16,17,45,0.0,px max,SIM1
+1777,2025,10,16,17,45,30.0,count sample,SIM1
