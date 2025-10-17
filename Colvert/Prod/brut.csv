@@ -1991,3 +1991,7 @@ mesure_id,annee,mois,jour,heure,minute,valeur,unite,camera_id
 2019,2025,10,17,9,15,0.0,px min,SIM1
 2020,2025,10,17,9,15,0.0,px max,SIM1
 2021,2025,10,17,9,15,30.0,count sample,SIM1
+2022,2025,10,17,9,30,0.0,px moyen,SIM1
+2023,2025,10,17,9,30,0.0,px min,SIM1
+2024,2025,10,17,9,30,0.0,px max,SIM1
+2025,2025,10,17,9,30,30.0,count sample,SIM1
