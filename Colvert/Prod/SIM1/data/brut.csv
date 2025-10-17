@@ -1975,3 +1975,7 @@ mesure_id,annee,mois,jour,heure,minute,valeur,unite,camera_id
 2003,2025,10,17,8,15,0.0,px min,SIM1
 2004,2025,10,17,8,15,0.0,px max,SIM1
 2005,2025,10,17,8,15,30.0,count sample,SIM1
+2006,2025,10,17,8,30,0.0,px moyen,SIM1
+2007,2025,10,17,8,30,0.0,px min,SIM1
+2008,2025,10,17,8,30,0.0,px max,SIM1
+2009,2025,10,17,8,30,30.0,count sample,SIM1
