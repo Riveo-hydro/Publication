@@ -1827,3 +1827,15 @@ mesure_id,annee,mois,jour,heure,minute,valeur,unite,camera_id
 1855,2025,10,16,22,45,0.0,px min,SIM1
 1856,2025,10,16,22,45,0.0,px max,SIM1
 1857,2025,10,16,22,45,30.0,count sample,SIM1
+1858,2025,10,16,23,0,0.0,px moyen,SIM1
+1859,2025,10,16,23,0,0.0,px min,SIM1
+1860,2025,10,16,23,0,0.0,px max,SIM1
+1861,2025,10,16,23,0,30.0,count sample,SIM1
+1862,2025,10,16,23,15,0.0,px moyen,SIM1
+1863,2025,10,16,23,15,0.0,px min,SIM1
+1864,2025,10,16,23,15,0.0,px max,SIM1
+1865,2025,10,16,23,15,30.0,count sample,SIM1
+1866,2025,10,16,23,30,0.0,px moyen,SIM1
+1867,2025,10,16,23,30,0.0,px min,SIM1
+1868,2025,10,16,23,30,0.0,px max,SIM1
+1869,2025,10,16,23,30,30.0,count sample,SIM1
