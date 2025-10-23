@@ -4043,3 +4043,7 @@ mesure_id,annee,mois,jour,heure,minute,valeur,unite,camera_id
 4071,2025,10,23,18,45,0.0,px min,SIM1
 4072,2025,10,23,18,45,16.0,px max,SIM1
 4073,2025,10,23,18,45,30.0,count sample,SIM1
+4074,2025,10,23,19,0,0.0,px moyen,SIM1
+4075,2025,10,23,19,0,0.0,px min,SIM1
+4076,2025,10,23,19,0,0.0,px max,SIM1
+4077,2025,10,23,19,0,30.0,count sample,SIM1
