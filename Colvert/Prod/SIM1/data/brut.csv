@@ -4239,3 +4239,7 @@ mesure_id,annee,mois,jour,heure,minute,valeur,unite,camera_id
 4267,2025,10,24,8,0,0.0,px min,SIM1
 4268,2025,10,24,8,0,0.0,px max,SIM1
 4269,2025,10,24,8,0,30.0,count sample,SIM1
+4270,2025,10,24,8,15,0.0,px moyen,SIM1
+4271,2025,10,24,8,15,0.0,px min,SIM1
+4272,2025,10,24,8,15,0.0,px max,SIM1
+4273,2025,10,24,8,15,30.0,count sample,SIM1
