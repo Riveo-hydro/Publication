@@ -1,0 +1,9 @@
+mesure_id,annee,mois,jour,heure,minute,valeur,unite,camera_id
+1,2025,10,29,23,30,5.533333333333333,px moyen,SIM1
+2,2025,10,29,23,30,0.0,px min,SIM1
+3,2025,10,29,23,30,8.0,px max,SIM1
+4,2025,10,29,23,30,30.0,count sample,SIM1
+5,2025,10,29,23,45,0.0,px moyen,SIM1
+6,2025,10,29,23,45,0.0,px min,SIM1
+7,2025,10,29,23,45,0.0,px max,SIM1
+8,2025,10,29,23,45,30.0,count sample,SIM1
