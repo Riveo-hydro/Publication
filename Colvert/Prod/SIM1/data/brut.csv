@@ -6423,3 +6423,7 @@ mesure_id,annee,mois,jour,heure,minute,valeur,unite,camera_id
 6451,2025,10,30,4,45,0.0,px min,SIM1
 6452,2025,10,30,4,45,0.0,px max,SIM1
 6453,2025,10,30,4,45,30.0,count sample,SIM1
+6454,2025,10,30,5,30,0.0,px moyen,SIM1
+6455,2025,10,30,5,30,0.0,px min,SIM1
+6456,2025,10,30,5,30,0.0,px max,SIM1
+6457,2025,10,30,5,30,30.0,count sample,SIM1
