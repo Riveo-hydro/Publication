@@ -8099,3 +8099,7 @@ mesure_id,annee,mois,jour,heure,minute,valeur,unite,camera_id
 8127,2025,11,5,3,0,120.0,px min,SIM1
 8128,2025,11,5,3,0,126.0,px max,SIM1
 8129,2025,11,5,3,0,30.0,count sample,SIM1
+8130,2025,11,5,3,15,127.13333333333334,px moyen,SIM1
+8131,2025,11,5,3,15,126.0,px min,SIM1
+8132,2025,11,5,3,15,129.0,px max,SIM1
+8133,2025,11,5,3,15,30.0,count sample,SIM1
