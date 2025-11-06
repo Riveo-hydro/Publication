@@ -8511,3 +8511,7 @@ mesure_id,annee,mois,jour,heure,minute,valeur,unite,camera_id
 8539,2025,11,6,5,45,88.0,px min,SIM1
 8540,2025,11,6,5,45,93.0,px max,SIM1
 8541,2025,11,6,5,45,30.0,count sample,SIM1
+8542,2025,11,6,6,0,21.0,px moyen,SIM1
+8543,2025,11,6,6,0,6.0,px min,SIM1
+8544,2025,11,6,6,0,33.0,px max,SIM1
+8545,2025,11,6,6,0,30.0,count sample,SIM1
