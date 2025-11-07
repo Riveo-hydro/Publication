@@ -9019,3 +9019,7 @@ mesure_id,annee,mois,jour,heure,minute,valeur,unite,camera_id
 9047,2025,11,7,14,15,169.0,px min,SIM1
 9048,2025,11,7,14,15,176.0,px max,SIM1
 9049,2025,11,7,14,15,30.0,count sample,SIM1
+9050,2025,11,7,14,30,165.4,px moyen,SIM1
+9051,2025,11,7,14,30,164.0,px min,SIM1
+9052,2025,11,7,14,30,167.0,px max,SIM1
+9053,2025,11,7,14,30,30.0,count sample,SIM1
