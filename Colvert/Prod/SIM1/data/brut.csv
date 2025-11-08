@@ -9139,3 +9139,7 @@ mesure_id,annee,mois,jour,heure,minute,valeur,unite,camera_id
 9167,2025,11,7,21,45,104.0,px min,SIM1
 9168,2025,11,7,21,45,107.0,px max,SIM1
 9169,2025,11,7,21,45,30.0,count sample,SIM1
+9170,2025,11,7,22,0,145.26666666666668,px moyen,SIM1
+9171,2025,11,7,22,0,143.0,px min,SIM1
+9172,2025,11,7,22,0,147.0,px max,SIM1
+9173,2025,11,7,22,0,30.0,count sample,SIM1
