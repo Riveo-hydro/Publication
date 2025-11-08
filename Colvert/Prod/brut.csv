@@ -9123,3 +9123,7 @@ mesure_id,annee,mois,jour,heure,minute,valeur,unite,camera_id
 9151,2025,11,7,20,45,106.0,px min,SIM1
 9152,2025,11,7,20,45,111.0,px max,SIM1
 9153,2025,11,7,20,45,30.0,count sample,SIM1
+9154,2025,11,7,21,0,112.4,px moyen,SIM1
+9155,2025,11,7,21,0,111.0,px min,SIM1
+9156,2025,11,7,21,0,114.0,px max,SIM1
+9157,2025,11,7,21,0,30.0,count sample,SIM1
