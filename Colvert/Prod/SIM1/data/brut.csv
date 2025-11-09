@@ -9667,3 +9667,7 @@ mesure_id,annee,mois,jour,heure,minute,valeur,unite,camera_id
 9695,2025,11,9,7,45,117.0,px min,SIM1
 9696,2025,11,9,7,45,151.0,px max,SIM1
 9697,2025,11,9,7,45,30.0,count sample,SIM1
+9698,2025,11,9,8,0,155.46666666666667,px moyen,SIM1
+9699,2025,11,9,8,0,154.0,px min,SIM1
+9700,2025,11,9,8,0,156.0,px max,SIM1
+9701,2025,11,9,8,0,30.0,count sample,SIM1
