@@ -10143,3 +10143,7 @@ mesure_id,annee,mois,jour,heure,minute,valeur,unite,camera_id
 10171,2025,11,10,14,0,147.0,px min,SIM1
 10172,2025,11,10,14,0,148.0,px max,SIM1
 10173,2025,11,10,14,0,30.0,count sample,SIM1
+10174,2025,11,10,14,15,149.13333333333333,px moyen,SIM1
+10175,2025,11,10,14,15,147.0,px min,SIM1
+10176,2025,11,10,14,15,150.0,px max,SIM1
+10177,2025,11,10,14,15,30.0,count sample,SIM1
